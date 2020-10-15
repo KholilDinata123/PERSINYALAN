@@ -18,6 +18,8 @@
     
 ## 2.INFRARED
 
+![Image](image.png)
+
    Inframerah adalah radiasi elektromagnetik dari panjang gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. Namanya berarti "bawah merah" (dari bahasa Latin infra, "bawah"), merah merupakan warna dari cahaya tampak dengan gelombang terpanjang. Radiasi inframerah memiliki jangkauan tiga "order" dan memiliki panjang gelombang antara 700  nm dan 1 mm. Inframerah ditemukan secara tidak sengaja oleh Sir William Herschell, astronom kerajaan Inggris ketika ia sedang mengadakan penelitian mencari bahan penyaring optis yang akan digunakan untuk mengurangi kecerahan gambar matahari pada teleskop tata surya.
     
 ## Karakteristik
@@ -35,10 +37,14 @@
 
 ## 3.BLUETOOTH
 
+![Image](image 1.png)
+
    Bluetooth merupakan sebuah teknologi berjenis wireless atau nirkabel. Teknologi ini dikembangkan oleh BSIG atau Bluetooth Special Interest Group. Bluetooth berguna untuk memindahkan data dari satu perangkat ke perangkat lainnya tanpa memerlukan kabel. Jarak yang diperlukan Bluetooth untuk dapat berkomunikasi antar perangkat yaitu antara 1 hingga 100 meter.Sebuah perangkat Bluetooth dapat terhubung hingga ke tujuh perangkat. Saat ini teknologi Bluetooth telah dibenamkan dalam banyak perangkat elektronik, seperti smartphone, laptop, headphone, dan lain-lain. Pada smartphone misalnya, fitur Bluetooth memungkinkan kita untuk mengirimkan file berupa gambar, video, musik, dan lainnya.
     
     
 ## 4.WIFI
+
+![Image](image 2.jpg)
 
    Wi-Fi (/ˈwaɪfaɪ/, juga ditulis Wifi atau WiFi) adalah sebuah teknologi yang memanfaatkan peralatan elektronik untuk bertukar data secara nirkabel (menggunakan gelombang radio) melalui sebuah jaringan komputer, termasuk koneksi Internet berkecepatan tinggi. Wi-Fi Alliance mendefinisikan Wi-Fi sebagai "produk jaringan area lokal nirkabel (WLAN) apapun yang didasarkan pada standar Institute of Electrical and Electronics Engineers (IEEE) 802.11".[1] Meski begitu, karena kebanyakan WLAN zaman sekarang didasarkan pada standar tersebut, istilah "Wi-Fi" dipakai dalam bahasa Inggris umum sebagai sinonim "WLAN".Sebuah alat yang dapat memakai Wi-Fi (seperti komputer pribadi, konsol permainan video, telepon pintar, tablet, atau pemutar audio digital) dapat terhubung dengan sumber jaringan seperti Internet melalui sebuah titik akses jaringan nirkabel. Titik akses (atau hotspot) seperti itu mempunyai jangkauan sekitar 20 meter (65 kaki) di dalam ruangan dan lebih luas lagi di luar ruangan. Cakupan hotspot dapat mencakup wilayah seluas kamar dengan dinding yang memblokir gelombang radio atau beberapa mil persegi — ini bisa dilakukan dengan memakai beberapa titik akses yang saling tumpang tindih.
     
@@ -49,6 +55,8 @@
 
 ## 1. Wireless Personal Area Network (WPAN)
 
+![Image](wpan.jpg)
+
    WPAN (Wireless Personal Area Network) adalah sebuah bentuk komunikasi wireless yang terbatas hanya pada jarak pendek dan umumnya hanya terbatas untuk dua buah perangkat elektronik (Afriana, L. 2013. Implementasi Dan Analisis Kinerja Routing Protocol B.A.T.M.A.N-Adv (Better Approach To Mobile Ad-Hoc Networking Advanced) Pada Jaringan Berbasis Wireless Mesh. Skripsi. Universitas Indonesia.). Media yang biasa digunakan untuk WPAN antara lain :
 a.Radio Frequency (RF)
 b.Infra Red (IR)
@@ -56,6 +64,8 @@ c.Bluetooth
 
 
 ## 2.Wireless Local Area Network (WLAN)
+
+![Image](tmp910_thumb.jpg)
 
    WLAN (Wireless Local Area Network) adalah sebuah bentuk komunikasi nirkabel yang memiliki area terbatas seperti dalam suatu ruangan ataupun sebuah gedung[Afriana, L. 2013. Implementasi Dan Analisis Kinerja Routing Protocol B.A.T.M.A.N-Adv (Better Approach To Mobile Ad-Hoc Networking Advanced) Pada Jaringan Berbasis Wireless Mesh. Skripsi. Universitas Indonesia.]. WLAN memiliki standar komunikasi yang diatur oleh sebuah lembaga. Standar komunikasi data yang digunakan dalam WLAN umumnya adalah keluarga Institute of Electrical and Electronics Engineers (IEEE) 802.11.
 
@@ -68,11 +78,13 @@ e.IEEE 802.11n yang bekerja pada dua frekuensi yaitu 2,4 dan 5GHz dengan kecepat
 
 ## 3.Ad-Hoc Mode
 
+![Image](ad-hoc1.jpg)
 
    Toplogi Ad-hoc adalah topologi dimana 2 buah komputer dihubungkan dengan langsung menggunakan wireless adapternya.Ad-Hoc mode mirip dengan jaringan peer to peer pada jaringan kabel
 
 ## 4.Mode Infrastruktur
 
+![Image](mode-infrastruktur3.jpg)
 
    Topologi mode infrastruktur adalah topologi dimana access point merupakan media penghubung semua host dan terpusat pada accesspoint.Mode infrastruktur mirip dengan jaringan Client server pada jaringan LAN,idealnya 1 Accesspoint bias melayani sampai 24 client,jika lebih dari 24 akan mengganggu kestabilan koneksi wireless.
 
@@ -103,7 +115,7 @@ Misalnya satu byte data terdiri dari 8 bit jajar. Untuk mengirimkan data bit jaj
    *Karakter = saat bernilai 0 artinya tidak ada transisi sinyal (Low Signal),saat bernilai 1 artinya ada transisi (High Signal).
    *Jadi, pada saat bit "0" dinyatakan sebagai signal level nol, sedangkan pada saat bit "1" dinyatakan sebagai setengah periode bit pertamanya adalah high signal dan setengah periode bit keduanya adalah low signal
                 
-
+![Image](1.JPG)
 
 1.1. Non-Return to Zero - Level (NRZ - L)
      Disini tegangan ngeatif yang dipakai untuk mewakili suatu binary dan tegangan positif dipakai untuk mewakili binary lainnya.
@@ -131,5 +143,8 @@ Misalnya satu byte data terdiri dari 8 bit jajar. Untuk mengirimkan data bit jaj
     B. Jika terjadi oktaf dari semua nol dan pulsa tegangan terakhir yang mendahului oktaf ini adalah negatif, maka 8 nol dari oktaf tersebut di-encode sebagai  000-+0+ -
  7.High-Density Bipolar - 3 Zeros (HDB3)
    Suatu kode dimana menggantikan string-string dari 4 nol dengan rangkaian yang mengandung satu atau dua pulsa atau disebut kode violation, jika violation terakhir positive  maka violation ini pasti negative dan sebaliknya.
+   
+![Image](2.JPG)   
+   
    Kedua kode ini berdasarkan pada penggunaan AMI encoding dan cocok untuk
    transmisi dengan data rate tinggi.
