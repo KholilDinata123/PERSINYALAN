@@ -25,13 +25,18 @@
 ## Karakteristik
 
 1.tidak dapat dilihat oleh penglihatan manusia.
+
 2.tidak dapat menembus materi yang tidak tembus pandang.
+
 3.dapat ditimbulkan oleh komponen yang menghasilkan panas.
+
 4.Panjang gelombang pada inframerah memiliki hubungan yang berlawanan atau berbanding terbalik dengan suhu. Ketika suhu mengalami kenaikan, maka panjang gelombang mengalami     penurunan.
 ## Jenis-Jenis Inframerah Berdasarkan Panjang Gelombang
 
 1.Inframerah jarak dekat dengan panjang gelombang 0.75 – 1.5 µm.
+
 2.Inframerah jarak menengah dengan panjang gelombang 1.50 – 10 µm.
+
 3.Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm.
 
 
@@ -58,8 +63,11 @@
 ![Image](wpan.jpg)
 
    WPAN (Wireless Personal Area Network) adalah sebuah bentuk komunikasi wireless yang terbatas hanya pada jarak pendek dan umumnya hanya terbatas untuk dua buah perangkat elektronik (Afriana, L. 2013. Implementasi Dan Analisis Kinerja Routing Protocol B.A.T.M.A.N-Adv (Better Approach To Mobile Ad-Hoc Networking Advanced) Pada Jaringan Berbasis Wireless Mesh. Skripsi. Universitas Indonesia.). Media yang biasa digunakan untuk WPAN antara lain :
+   
 a.Radio Frequency (RF)
+
 b.Infra Red (IR)
+
 c.Bluetooth
 
 
@@ -70,8 +78,11 @@ c.Bluetooth
    WLAN (Wireless Local Area Network) adalah sebuah bentuk komunikasi nirkabel yang memiliki area terbatas seperti dalam suatu ruangan ataupun sebuah gedung[Afriana, L. 2013. Implementasi Dan Analisis Kinerja Routing Protocol B.A.T.M.A.N-Adv (Better Approach To Mobile Ad-Hoc Networking Advanced) Pada Jaringan Berbasis Wireless Mesh. Skripsi. Universitas Indonesia.]. WLAN memiliki standar komunikasi yang diatur oleh sebuah lembaga. Standar komunikasi data yang digunakan dalam WLAN umumnya adalah keluarga Institute of Electrical and Electronics Engineers (IEEE) 802.11.
 
 a.IEEE 802.11a bekerja pada frekuensi 5GHz dan mempunyai kecepatan maksimum 54 Mbps.
+
 b.IEEE 802.11b bekerja pada frekuensi 2,4GHz dan mempunyai kecepatan sampai dengan 11Mbps.
+
 c.IEEE 802.11g bekerja pada frekuensi yang sama dengan IEEE 802.11b yaitu 2,4GHz, namun memiliki kecepatan maksimal yang lebih besar, yaitu 54Mbps.
+
 e.IEEE 802.11n yang bekerja pada dua frekuensi yaitu 2,4 dan 5GHz dengan kecepatan maksimum adalah 100 sampai dengan 210 Mbps 
 
    IEEE sendiri adalah sebuah lembaga internasional yang bersifat non-profit yang mempromosikan pengembangan berbagai teknologi yang berkaitan dengan listrik, telekomunikasi dan jaringan komputer. IEEE menentukan berbagai standar yang sering kali dipakai sebagai standar internasional .
@@ -97,10 +108,15 @@ e.IEEE 802.11n yang bekerja pada dua frekuensi yaitu 2,4 dan 5GHz dengan kecepat
    Teknologi nirkabel memiliki beberapa contoh penggunaan,mulai dari jarak komunikasi,jangkauan data dan jenis perangkat yang digunakan.Berikut ini adalah berbagai contoh penggunaan teknologi nirkabel.
 
 1.Siaran Radio dan Televisi
+
 2.Komunikasi Radar
+
 3.Komunikasi satelit
+
 4.Wifi
+
 5.Bluetooth
+
 6.Identifikasi frekuensi radio
 
 
@@ -117,31 +133,50 @@ Misalnya satu byte data terdiri dari 8 bit jajar. Untuk mengirimkan data bit jaj
                 
 ![Image](1.JPG)
 
+## 1.Non-Return to Zero
+
 1.1. Non-Return to Zero - Level (NRZ - L)
      Disini tegangan ngeatif yang dipakai untuk mewakili suatu binary dan tegangan positif dipakai untuk mewakili binary lainnya.
+     
 1.2. Non-Return to Zero - Inverted (NRZ - Inverted)
      Suatu kode dimana suatu transisi (low ke high atau high ke low) pada awal suatu bit time akan dikenal sebagai binary ‘1′ untuk bit time tersebut; tidak ada transisi          berarti binary ‘0′.
-2. Multilevel Binary
+     
+## 2. Multilevel Binary
+
 2.1. Bipolar - AMI
      Suatu kode dimana binary ‘0′ diwakili dengan tidak adanya line sinyal dan binary ‘1′ diwakili oleh suatu pulsa positif atau negatif.Zero menggambarkan tidak adanya            signal. Satu menggambarkan positif atau negatif sinyal.
+     
 2.2. Pseudoternary
-     Suatu kode dimana binary ‘1′ diwakili oleh ketiadaan line sinyal dan binary ‘0′ oleh pergantian pulsa-pulsa positif dan negatif.Satu menggambarkan adanya jalur                sinyal.Zero menggambarkan perwakilan dari positif dan negatif
-3. Biphase
+     Suatu kode dimana binary ‘1′ diwakili oleh ketiadaan line sinyal dan binary ‘0′ oleh pergantian pulsa-pulsa positif dan negatif.Satu menggambarkan adanya jalur                sinyal.Zero menggambarkan perwakilan dari positif dan negatif.
+     
+## 3. Biphase
+
 3.1. Manchester
      Suatu kode dimana ada suatu transisi pada setengah dari periode. Tiap bit transisi ke high mewakili ‘1′ dan high ke low mewakili ‘0′.Zero dari tinggi ke rendah di            pertengahan interval. Satu dari rendah ke tinggi di pertengahan interval
+     
 3.2. Diferensiasi Manchester
      Suatu kode dimana binary ‘0′ diwakili oleh adanya transisi di awal periode suatu bit dan binary ‘1′ diwakili oleh ketiadaan transisi di awal periode suatu bit.
      *Keuntungan differensial encoding: lebih kebal noise, tidak dipengaruhi oleh level                                                                                                  tegangan.
       *Kelemahan dari NRZ-L atau NRZI: terbatasan dalam komponen DC dan                                                                                                                  kemampuan synchronisasi yang buruk.
-4.Modulation Rate (Kecepatan dimana elemen-elemen sinyal terbentuk)
-       Contoh :  untuk kode manchester, maksimum modulation rate = 2 / tB.  Salah satu cara menyatakan modulation rate yaitu dengan menentukan rata-rata jumlah transisi yang                  terjadi per bit time.
-5.Scrambling Technique
-       Teknik biphase memerlukan kecepatan pensinyalan yang tinggi relatif terhadap  data rate sehingga lebih mahal pada aplikasi jarak jauh sehingga digunakan teknik scrambling dimana serangkaian level tegangan yang tetap pada line digantikan dengan serangkaian pengisi yang akan melengkapi transisi yang cukup untuk clock receiver mempertahankan synchronisasi.
-6.Bipolar with 8-Zeros Substitution (B8ZS)
+      
+## 4.Modulation Rate
+
+   Contoh :  untuk kode manchester, maksimum modulation rate = 2 / tB.  Salah satu cara menyatakan modulation rate yaitu dengan menentukan rata-rata jumlah transisi yang                  terjadi per bit time.
+       
+## 5.Scrambling Technique
+
+   Teknik biphase memerlukan kecepatan pensinyalan yang tinggi relatif terhadap  data rate sehingga lebih mahal pada aplikasi jarak jauh sehingga digunakan teknik scrambling dimana serangkaian level tegangan yang tetap pada line digantikan dengan serangkaian pengisi yang akan melengkapi transisi yang cukup untuk clock receiver mempertahankan synchronisasi.
+       
+## 6.Bipolar with 8-Zeros Substitution (B8ZS)
+
   Suatu kode dimana :
-    A. Jika terjadi oktaf dari semua nol dan pulsa tegangan terakhir yang mendahului oktaf ini adalah positif, maka 8 nol dari oktaf tersebut di-encode sebagai  000+-0- +
-    B. Jika terjadi oktaf dari semua nol dan pulsa tegangan terakhir yang mendahului oktaf ini adalah negatif, maka 8 nol dari oktaf tersebut di-encode sebagai  000-+0+ -
- 7.High-Density Bipolar - 3 Zeros (HDB3)
+  
+   A. Jika terjadi oktaf dari semua nol dan pulsa tegangan terakhir yang mendahului oktaf ini adalah positif, maka 8 nol dari oktaf tersebut di-encode sebagai  000+-0- +
+    
+   B. Jika terjadi oktaf dari semua nol dan pulsa tegangan terakhir yang mendahului oktaf ini adalah negatif, maka 8 nol dari oktaf tersebut di-encode sebagai  000-+0+ -
+   
+ ## 7.High-Density Bipolar - 3 Zeros (HDB3)
+ 
    Suatu kode dimana menggantikan string-string dari 4 nol dengan rangkaian yang mengandung satu atau dua pulsa atau disebut kode violation, jika violation terakhir positive  maka violation ini pasti negative dan sebaliknya.
    
 ![Image](2.JPG)   
