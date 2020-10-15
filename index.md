@@ -42,14 +42,14 @@
 
 ## 3.BLUETOOTH
 
-![Image](image 1.jpg)
+![Image](image 1.png)
 
    Bluetooth merupakan sebuah teknologi berjenis wireless atau nirkabel. Teknologi ini dikembangkan oleh BSIG atau Bluetooth Special Interest Group. Bluetooth berguna untuk memindahkan data dari satu perangkat ke perangkat lainnya tanpa memerlukan kabel. Jarak yang diperlukan Bluetooth untuk dapat berkomunikasi antar perangkat yaitu antara 1 hingga 100 meter.Sebuah perangkat Bluetooth dapat terhubung hingga ke tujuh perangkat. Saat ini teknologi Bluetooth telah dibenamkan dalam banyak perangkat elektronik, seperti smartphone, laptop, headphone, dan lain-lain. Pada smartphone misalnya, fitur Bluetooth memungkinkan kita untuk mengirimkan file berupa gambar, video, musik, dan lainnya.
     
     
 ## 4.WIFI
 
-![Image](image 2.jpg)
+![Image](image 2.png)
 
    Wi-Fi (/ˈwaɪfaɪ/, juga ditulis Wifi atau WiFi) adalah sebuah teknologi yang memanfaatkan peralatan elektronik untuk bertukar data secara nirkabel (menggunakan gelombang radio) melalui sebuah jaringan komputer, termasuk koneksi Internet berkecepatan tinggi. Wi-Fi Alliance mendefinisikan Wi-Fi sebagai "produk jaringan area lokal nirkabel (WLAN) apapun yang didasarkan pada standar Institute of Electrical and Electronics Engineers (IEEE) 802.11".[1] Meski begitu, karena kebanyakan WLAN zaman sekarang didasarkan pada standar tersebut, istilah "Wi-Fi" dipakai dalam bahasa Inggris umum sebagai sinonim "WLAN".Sebuah alat yang dapat memakai Wi-Fi (seperti komputer pribadi, konsol permainan video, telepon pintar, tablet, atau pemutar audio digital) dapat terhubung dengan sumber jaringan seperti Internet melalui sebuah titik akses jaringan nirkabel. Titik akses (atau hotspot) seperti itu mempunyai jangkauan sekitar 20 meter (65 kaki) di dalam ruangan dan lebih luas lagi di luar ruangan. Cakupan hotspot dapat mencakup wilayah seluas kamar dengan dinding yang memblokir gelombang radio atau beberapa mil persegi — ini bisa dilakukan dengan memakai beberapa titik akses yang saling tumpang tindih.
     
